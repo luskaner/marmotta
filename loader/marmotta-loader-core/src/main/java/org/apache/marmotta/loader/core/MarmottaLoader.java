@@ -533,7 +533,7 @@ public class MarmottaLoader {
      * Build command line options. Base options are:
      * <ul>
      *     <li>-h | --help: show help</li>
-     *     <li>-B | --backend: backend to use (kiwi, hbase, berkeleydb)</li>
+     *     <li>-B | --backend: backend to use (kiwi, hbase, berkeleydb, cassandra)</li>
      *     <li>-z | --gzip: input is GZIP encoded</li>
      *     <li>-j | --bzip2: input is BZIP2 encoded</li>
      *     <li>-c | --context: URI of a context to add the statement to</li>

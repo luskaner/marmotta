@@ -90,6 +90,7 @@
         <module>marmotta-loader-titan</module>
         <module>marmotta-loader-hbase</module>
         <module>marmotta-loader-berkeley</module>
+	<module>marmotta-loader-cassandra</module>
     </modules>
 
     <profiles>
